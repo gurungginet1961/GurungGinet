@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GGTrade - Your Trading Partner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007bff;
+        }
+        .cta {
+            background-color: #28a745;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        .cta a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to GGTrade</h1>
+        <p>Your trusted platform for trading services and insights.</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Why Choose GGTrade?</h2>
+            <p>At GGTrade, we provide top-notch trading services designed to help you maximize your investments. Our platform offers:</p>
+            <ul>
+                <li>Real-time trading data and analytics</li>
+                <li>Advanced trading tools and strategies</li>
+                <li>Expert support and guidance</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Join Our Trading Community</h2>
+            <p>Be part of a vibrant trading community where you can share strategies, get tips, and stay updated on the latest market trends.</p>
+            <div class="cta">
+                <p><strong>Don't miss out!</strong> Join our channel for exclusive insights and updates.</p>
+                <a href="https://yourchannel.com" target="_blank">Join Now</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 GGTrade. All rights reserved.</p>
+    </footer>
+</body>
+</html>
